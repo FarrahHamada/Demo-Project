@@ -1,0 +1,85 @@
+#indexBody{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url('https://gmcdn-sxcqif3sepi.netdna-ssl.com/city-guides/img/uploads/nhood/original/1492139049.35530.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+h1{
+font-family: 'Abel', sans-serif;
+}
+#login{
+  position: relative;
+	min-height: 100vh;
+	background-color: #E1E8EE;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: 'Vibur', cursive;
+}
+#postings{
+    padding-top:80px;
+
+}
+h1{
+    font-family: 'Lobster', cursive;
+}
+
+#profile{
+    padding-top:80px;
+    background-image: url('https://blog.nextdoor.com/wp-content/uploads/2020/03/7-Ways-to-Help.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#signip{
+    padding-top:80px;
+}
+#loginForm{
+ 	font-family: 'Vibur', cursive;
+
+}
+img{
+  height: 200px;
+
+}
+.postingMessages{
+  width: 50%;
+  padding: 10px;
+  padding-left:  20px;
+  padding-right: 20px;
+  height: 500px;
+  font-size: 18px;
+  color: black;
+}
+
+
+#index{
+  background-color: lightblue;
+  font-family: 'Playfair Display', serif;
+
+}
+#loginButton{
+    cursor: pointer;
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    width: 80px;
+    border: 0;
+    padding: 10px 0;
+    margin-top: 10px;
+    margin-left: -5px;
+    border-radius: 5px;
+    background-color: grey;
+}
+.row{
+  margin-right: -160px;
+  margin-left: 94px;
+  display: block;
+}
+
+.col-sm-6{
+  margin-left: 100px;
+}
